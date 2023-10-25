@@ -1,0 +1,3 @@
+show dbs //to show dbs
+show collections //to show all collections
+use shipkart //to use a particular db

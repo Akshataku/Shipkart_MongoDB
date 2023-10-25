@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "64e9cccf1782088523453785"
+  },
+  "item": "Television",
+  "price": 41999,
+  "brand": "SONY",
+  "specifications": {
+    "size": 43,
+    "resolution": "4k",
+    "color": "Black",
+    "display": "LED",
+    "refresh_rate": "60 hz"
+  },
+  "imageUrl": "../../assets/images/Television.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e9d62ab7a459393a44f68d"
+  },
+  "item": "Refrigerator",
+  "price": 27990,
+  "brand": "LG",
+  "specifications": {
+    "capacity": "246 Litres",
+    "color": "Black"
+  },
+  "imageUrl": "../../assets/images/Refrigerator.jpg"
+},
+{
+  "_id": {
+    "$oid": "64e9d652b7a459393a44f68e"
+  },
+  "item": "Phone",
+  "price": 119999,
+  "brand": "APPLE",
+  "specifications": {
+    "color": "Deep purple",
+    "camera": "48MP",
+    "OS": "iOS",
+    "display": "120 hz",
+    "ROM": "128 GB"
+  },
+  "imageUrl": "../../assets/images/Phone.jpg"
+},
+{
+  "_id": {
+    "$oid": "64eb5d439e953746eba80ff3"
+  },
+  "item": "Controller",
+  "price": 1599,
+  "brand": "Redgear",
+  "specifications": {
+    "color": "Black",
+    "connectivity": "Bluetooth"
+  },
+  "imageUrl": "../../assets/images/Controller.jpg"
+},
+{
+  "_id": {
+    "$oid": "64eb5f109e953746eba80ff4"
+  },
+  "item": "Buds",
+  "price": 1299,
+  "brand": "boAt",
+  "specifications": {
+    "color": "Black",
+    "connectivity": "Bluetooth",
+    "battery": "50 Hours"
+  },
+  "imageUrl": "../../assets/images/Buds.jpg"
+},
+{
+  "_id": {
+    "$oid": "64eb60609e953746eba80ff5"
+  },
+  "item": "Microwave",
+  "price": 10290,
+  "brand": "Panasonic",
+  "specifications": {
+    "color": "Black",
+    "capacity": "23L",
+    "type": "Convection"
+  },
+  "imageUrl": "../../assets/images/Microwave.jpg"
+},
+{
+  "_id": {
+    "$oid": "64eb62549e953746eba80ff6"
+  },
+  "item": "Watch",
+  "price": 3498,
+  "brand": "Noise",
+  "specifications": {
+    "color": "Rose pink",
+    "display": "AMOLED",
+    "battery": "7 days",
+    "connectivity": "Bluetooth",
+    "screen_size": "1.78 inches"
+  },
+  "imageUrl": "../../assets/images/Watch.jpg"
+},
+{
+  "_id": {
+    "$oid": "64eb643e9e953746eba80ff7"
+  },
+  "item": "Speaker",
+  "price": 2999,
+  "brand": "JBL",
+  "specifications": {
+    "color": "Blue",
+    "battery": "5 hours",
+    "connectivity": "Bluetooth",
+    "port": "Type C"
+  },
+  "imageUrl": "../../assets/images/Speaker.jpg"
+},
+{
+  "_id": {
+    "$oid": "64eb6afa14245ac7f48a95e2"
+  },
+  "item": "Laptop",
+  "price": 52999,
+  "brand": "Acer",
+  "specifications": {
+    "color": "Gray",
+    "screen_size": "15.6 inches",
+    "processor": "Intel Core i5 12th gen",
+    "ROM": "512 GB",
+    "OS": "Windows 11 home",
+    "weight": "1.8kg",
+    "graphics": "NVIDIA GeForce RTX 2050",
+    "RAM": "8GB"
+  },
+  "imageUrl": "../../assets/images/Laptop.jpg"
+},
+{
+  "_id": {
+    "$oid": "64eb6d2c14245ac7f48a95e3"
+  },
+  "item": "Juicer",
+  "price": 1978,
+  "brand": "NutriPro",
+  "specifications": {
+    "color": "Silver",
+    "speeds": 2,
+    "power": "500 Watts"
+  },
+  "imageUrl": "../../assets/images/Juicer.jpg"
+}]
